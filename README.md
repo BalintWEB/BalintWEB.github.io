@@ -1,2 +1,2 @@
 # BalintWEB.github.io
-Demo page. feltöltés alatt :)
+Demo page. feltöltés alatt
